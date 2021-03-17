@@ -2,8 +2,8 @@
 remote_theme: 'epidrome/cover-card'
 
 # Title and tag line
-title: 'Jiayun Wan'
-description: '闻多素心人，乐与数晨夕'
+title: <font size=6>Jiayun Wan</font>
+description: <font size=3>闻多素心人，乐与数晨夕</font>
 
 # Images
 avatar: 'pipa.jpeg'
@@ -54,7 +54,7 @@ plugins:
 social-links:
 
   - name: github-user
-    url-pattern: github.com/__jiayunwan__
+    url-pattern: github.com/jiayunwan
     icon-class: fab fa-2x fa-github
 
   - name: telegram
